@@ -1,0 +1,8 @@
+
+# COCO-like Car Damage Dataset converted to YOLO
+train: /Users/muhammedshibil/Documents/projects/Car Damage Analyzer/Data/Car Damage/train/images
+val: /Users/muhammedshibil/Documents/projects/Car Damage Analyzer/Data/Car Damage/val/images
+test: /Users/muhammedshibil/Documents/projects/Car Damage Analyzer/Data/Car Damage/test/images
+
+nc: 6
+names: ['dent', 'scratch', 'crack', 'glass shatter', 'lamp broken', 'tire flat']
