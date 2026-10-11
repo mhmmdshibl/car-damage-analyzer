@@ -7,7 +7,7 @@ The system detects visible vehicle damage from an uploaded image and converts th
 ## 🚀 Live Demo
 
 **Hugging Face Spaces:**  
-https://huggingface.co/spaces/mhmmdshibl/car-damage-analyzer?logs=container)
+https://huggingface.co/spaces/mhmmdshibl/car-damage-analyzer
 
 **GitHub:**  
 https://github.com/mhmmdshibl/car-damage-analyzer
